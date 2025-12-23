@@ -5,4 +5,5 @@ pandas
 numpy
 watchdog
 lapx
-yt.dlp
+yt
+yt_dlp
